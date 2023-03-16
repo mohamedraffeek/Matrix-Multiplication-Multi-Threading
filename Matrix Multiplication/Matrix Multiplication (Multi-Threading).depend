@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678788284 source:/home/mohamed/Desktop/Matrix Multiplication (Multi-Threading)/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<sys/time.h>
+	<string.h>
+
